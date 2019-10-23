@@ -1,0 +1,11 @@
+**/target
+*.iml
+*.project
+*.log
+**/bin
+**/.idea
+**/node_modules
+/restmon-app/yarn.lock
+**/*.versionsBackup
+**/.classpath
+**/.settings/

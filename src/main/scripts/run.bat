@@ -1,0 +1,1 @@
+java -Dcom.sun.management.jmxremote -Xms212m -Xmx2048m -cp .;conf/;lib/*; org.async.HttpAsyn
